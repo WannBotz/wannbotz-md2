@@ -26,8 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌D" //namabot kalian
-global.ownername= "𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝" //nama kalian
+global.botname = "「 𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 」" //namabot kalian
+global.ownername= "「 𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝 」" //nama kalian
 global.myweb ="https://Instagram.com/wannzx_133" //bebas asal jan hapus
 global.youtube = "https://Instagram.com/wannzx_133" //bebas asal jan hapus
 global.myweb2 = "https://Instagram.com/wannzx_133" //bebas
@@ -117,7 +117,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: 'Sukses coy.\n Jan lupa follow instagram saia:https://Instagram.com/wannzx_133\n hehe🗿, Oke Brow~',
+    sukses: '*Sukses coy*.\n\n_𝐆𝐫𝐨𝐮𝐩 𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥:https://chat.whatsapp.com/Bbh5bDDQsWQBxQTaY5tHBJ_, Oke Brow~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
